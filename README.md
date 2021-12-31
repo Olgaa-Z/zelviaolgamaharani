@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zelvia Olga Maharani</h1>
-<h3 align="center">A passionate mobile developer from Indonesia, Yogyakarta Regency.</h3>
+<h3 align="center">A passionate mobile developer from Yogyakarta, Indonesia.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
